@@ -1,0 +1,28 @@
+nav a.active {
+    font-weight: bold;
+    color: yellow;
+  }
+  
+  header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #007bff;
+    padding: 10px;
+  }
+  
+  header nav a {
+    margin: 0 15px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  header nav a:hover {
+    color: #f1f1f1;
+    text-decoration: underline;
+  }
+
+  a {
+    margin-right: 15px; color: white; text-decoration: none
+  }
